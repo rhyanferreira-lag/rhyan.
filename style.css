@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4em;
+
+}
+
+header img{
+    width: 36vw;
+
+}
+.testa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.testa img{
+    border-radius: 1em;
+    width: 60;
+    -webkit-box-shadow:-64px -60px 47px -37px rgba(0,0,0,1);
+-moz-box-shadow: -64px -60px 47px -37px rgba(0,0,0,1);
+box-shadow: -64px -60px 47px -37px rgba(0,0,0,1);
+
+}
